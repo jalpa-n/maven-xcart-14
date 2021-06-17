@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SmokeTest"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="46.384">
+  <properties />
+  
+  
+            <testcase name="verifySaleProductsArrangeByRates" time="16.273" classname="com.xcart.mobile.testsuite.hotdeals.HotDealTest" />
+                <testcase name="verifySaleProductsPriceArrangeLowToHigh" time="12.427" classname="com.xcart.mobile.testsuite.hotdeals.HotDealTest" />
+                <testcase name="verifySaleProductsArrangeAlphabetically" time="17.684" classname="com.xcart.mobile.testsuite.hotdeals.HotDealTest" />
+      
+</testsuite>
